@@ -6,3 +6,8 @@ body{
 #container{
     border: 2px solid black;
 }
+
+#cabecera{
+    border: 4px dashed black;
+    background-color: greenyellow;
+}
